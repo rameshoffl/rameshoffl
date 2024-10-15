@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameshoffl" alt="rameshoffl" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ramesh" target="blank"><img src="https://img.shields.io/twitter/follow/ramesh?logo=twitter&style=for-the-badge" alt="ramesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ramesh256937" target="blank"><img src="https://img.shields.io/twitter/follow/ramesh256937?logo=twitter&style=for-the-badge" alt="ramesh256937" /></a> </p>
 
 - 🔭 I’m currently working on **MERN stack project**
 
@@ -19,10 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramesh" height="30" width="40" /></a>
+<a href="https://twitter.com/ramesh256937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramesh256937" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ramesh g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh g" height="30" width="40" /></a>
+<a href="https://kaggle.com/harshaxylo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshaxylo" height="30" width="40" /></a>
 <a href="https://instagram.com/_lone_legend_2004_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lone_legend_2004_" height="30" width="40" /></a>
 <a href="https://medium.com/@rameshofficial2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rameshofficial2004" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@rameshofficial21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rameshofficial21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rameshoffl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rameshoffl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
